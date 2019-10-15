@@ -1,5 +1,5 @@
 # ssm
-:tada::tada::tada: study spring springmvc mabatis small project
+:tada::tada::tada: study spring springmvc mybatis small project
 
 # desc
 
