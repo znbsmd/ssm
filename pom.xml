@@ -151,7 +151,7 @@
     <dependency>
       <groupId>org.apache.lucene</groupId>
       <artifactId>lucene-core</artifactId>
-      <version>7.1.0</version>
+      <version>4.4.0</version>
     </dependency>
     <!--一般分词器，适用于英文分词-->
     <dependency>
