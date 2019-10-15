@@ -3,4 +3,4 @@
 
 # desc
 
-:chart_with_upwards_trend: :chart_with_upwards_trend: :chart_with_upwards_trend: 包含 ssm redis filter Interceptor 简单应用 
+:chart_with_upwards_trend: :chart_with_upwards_trend: :chart_with_upwards_trend: 包含 ssm redis filter Interceptor thread  简单应用示例 
