@@ -9,7 +9,7 @@
   <url>http://maven.apache.org</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <mysql.version>5.1.37</mysql.version>
+    <mysql.version>8.0.28</mysql.version>
     <spring.version>4.3.17.RELEASE</spring.version>
     <lucene.version>4.4.0</lucene.version>
 
